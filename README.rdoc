@@ -1,0 +1,7 @@
+== README
+
+* Running
+ruby main.rb sentence1 sentence2
+
+* Running specs
+cd spec; rspec get_difference_spec.rb
